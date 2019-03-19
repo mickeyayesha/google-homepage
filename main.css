@@ -1,0 +1,12 @@
+.google-logo {
+    position: static;
+}
+
+.logo {
+  width: 300px;
+  height: 125px;
+  position: relative;
+  display: inline-block;
+  z-index: auto;
+  vertical-align: -webkit-baseline-middle;
+}
