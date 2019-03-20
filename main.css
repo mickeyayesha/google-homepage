@@ -1,4 +1,4 @@
-.google-logo {
+.center {
     position: static;
 }
 
@@ -6,7 +6,16 @@
   width: 300px;
   height: 125px;
   position: relative;
-  display: inline-block;
-  z-index: auto;
-  vertical-align: -webkit-baseline-middle;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search {
+  display: block;
+  margin: auto;
+}
+
+li {
+  list-style: none;
 }
